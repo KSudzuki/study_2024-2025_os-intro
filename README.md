@@ -59,7 +59,7 @@ git clone --recursive https://github.com/yamadharma/course-directory-student-tem
 -   Репозиторий:
     <https://github.com/yamadharma/course-directory-student-template>.
 
-## Сознание репозитория курса на основе шаблона
+## Создание репозитория курса на основе шаблона
 
 -   Репозиторий на основе шаблона можно создать либо вручную, через web-интерфейс, либо с помощью утилит `gh`.
 
